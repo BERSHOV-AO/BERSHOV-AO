@@ -3,6 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b>
     <br>He who moves not forward goes backward!<br>
+    <br>Hard work beats talent when talent fails to work hard</br>
     <br>let's move together!<br>
     <i>
         I'm Aleksey.<br>   
