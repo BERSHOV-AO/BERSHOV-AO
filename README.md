@@ -40,7 +40,7 @@
 
 ### LeetCode
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-<a href="https://leetcode.com/BERSHOV-AO/">My LeetCode</a>
+<a href="https://leetcode.com/BERSHOV-AO/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 <!--
 **BERSHOV-AO/BERSHOV-AO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
