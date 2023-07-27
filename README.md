@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, guys!👋🏻/></h1> 
+<h1 align="center">Hi, guys!👋🏻</h1> 
 <p align="center">
     <b>Welcome to my page!</b>
     <br>Hard work beats talent when talent fails to work hard</br>
