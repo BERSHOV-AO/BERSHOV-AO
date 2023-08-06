@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, guys!<img src="https://github.com/BERSHOV-AO/Duke/blob/main/T10.gif" height="50"/></h1> 
+<h1 align="center">Hi, guys!<img src="https://github.com/BERSHOV-AO/Duke/blob/main/Duke_(Java_mascot)_waving.svg.png" height="50"/></h1> 
 <p align="center">
     <b>Welcome to my page!</b>
     <br>Hard work beats talent when talent fails to work hard</br>
