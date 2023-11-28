@@ -46,7 +46,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Hobby
-<img src="https://github.com/BERSHOV-AO/Duke/blob/main/qrye522.gif" height="32"/>
+<img src="https://github.com/BERSHOV-AO/Duke/blob/main/resizQerye52.gif" height="32"/>
 
 
 <!--
