@@ -46,7 +46,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Hobby
-<img src="https://github.com/BERSHOV-AO/Duke/blob/main/resizQerye52.gif" height="32"/><p>с&nbsp;</p>![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<img src="https://github.com/BERSHOV-AO/Duke/blob/main/resizQerye52.gif" height="32"/>![Arduino](<p>с&nbsp; </p> https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 
