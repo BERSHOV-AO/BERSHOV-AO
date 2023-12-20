@@ -47,6 +47,7 @@
 
 ### Hobby
 <img src="https://github.com/BERSHOV-AO/Duke/blob/main/resizQerye52.gif" height="32"/>
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 <!--
